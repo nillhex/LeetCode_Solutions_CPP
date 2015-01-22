@@ -74,8 +74,8 @@ You can use `Ctrl-F` to find the solutions precisely.
 |114|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| -- |None|
 |113|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| -- |None|
 |112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [link](./112.cpp) |None|
-|111|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| -- |None|
-|110|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| -- |None|
+|111|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [link](./111.cpp) |None|
+|110|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [link](./110.cpp) |None|
 |109|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| -- |None|
 |108|[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| -- |None|
 |107|[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| -- |None|
