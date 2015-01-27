@@ -179,7 +179,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| -- |None|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| -- |None|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [link](./7.cpp) |None|
-|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| -- |None|
+|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [link](./6.cpp) |None|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| -- |None|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| -- |None|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| -- |None|
