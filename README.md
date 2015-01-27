@@ -16,7 +16,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) |[link](./172.cpp)|None|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [link](./171.cpp) |None|
 |170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/)  | -- |None|
-|169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [link](./169.cpp) |None|
+|169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [link](./169.cpp) |[View](http://nillhex.com/2015/01/leetcode-majority-element/)|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [link](./168.cpp) |None|
 |167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | -- |None|
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | -- |None|
@@ -34,14 +34,14 @@ You can use `Ctrl-F` to find the solutions precisely.
 |154|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| -- |None|
 |153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| -- |None|
 |152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| -- |None|
-|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [link](./151.cpp) |None|
+|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [link](./151.cpp) |[View](http://blog.nillhex.com/2014/05/reverse-words-in-a-string/)|
 |150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| -- |None|
 |149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| -- |None|
-|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [link](./148.cpp) |None|
+|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [link](./148.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodesort-list/)|
 |147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| -- |None|
 |146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| -- |None|
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| -- |None|
-|144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [link](./144.cpp) |None|
+|144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [link](./144.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodebinary-tree-preorder-traversal/)|
 |143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| -- |None|
 |142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| -- |None|
 |141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| -- |None|
@@ -64,8 +64,8 @@ You can use `Ctrl-F` to find the solutions precisely.
 |124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| -- |None|
 |123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| -- |None|
 |122|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| -- |None|
-|121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./121.cpp) |None|
-|120|[Triangle](https://oj.leetcode.com/problems/triangle/)| [link](./120.cpp) |None|
+|121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./121.cpp) |[view](http://blog.nillhex.com/2014/05/best-time-to-buy-and-sell-stock/)|
+|120|[Triangle](https://oj.leetcode.com/problems/triangle/)| [link](./120.cpp) |[View](http://nillhex.com/2014/05/triangle_leetcode/)|
 |119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [link](./119.cpp) |None|
 |118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [link](./118.cpp) |None|
 |117|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| -- |None|
@@ -102,7 +102,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |86|[Partition List](https://oj.leetcode.com/problems/partition-list/)| -- |None|
 |85|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| -- |None|
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| -- |None|
-|83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [link](./83.cpp) |None|
+|83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [link](./83.cpp) |[View](http://blog.nillhex.com/2014/05/remove-duplicates-from-sorted-list/)|
 |82|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| -- |None|
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| -- |None|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| -- |None|
@@ -151,7 +151,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| -- |None|
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| -- |None|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| -- |None|
-|34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [link](./34.cpp) |None|
+|34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [link](./34.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodesearch-for-a-range/)|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| -- |None|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| -- |None|
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| -- |None|
@@ -161,12 +161,12 @@ You can use `Ctrl-F` to find the solutions precisely.
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| -- |None|
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| -- |None|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| -- |None|
-|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [link](./24.cpp) |None|
+|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [link](./24.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodeswap-nodes-in-pairs/)|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| -- |None|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| -- |None|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| -- |None|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [link](./20.cpp) |None|
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [link](./19.cpp) |None|
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [link](./19.cpp) |[View](http://blog.nillhex.com/2014/05/leetcoderemove-nth-node-from-end-of-list/)|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| -- |None|
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| -- |None|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| -- |None|
