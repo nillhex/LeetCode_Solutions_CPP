@@ -10,6 +10,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 ---
 |NO.   | Problem's Name | LinkToCode | LinkToDiscuss 
 |:-----:|:--------------------------------:|:-----:|:-----:|
+|189|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/) | [link](./189.cpp) |---|
 |179|[Largest Number](https://oj.leetcode.com/problems/largest-number/) | -- |---|
 |174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | -- |---|
 |173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | -- |---|
