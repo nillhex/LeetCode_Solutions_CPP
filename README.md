@@ -177,7 +177,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| -- |---|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| -- |---|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| -- |---|
-|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| -- |---|
+|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [link](./9.cpp) |---|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| -- |---|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [link](./7.cpp) |---|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [link](./6.cpp) |---|
