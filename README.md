@@ -106,7 +106,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [link](./83.cpp) |[View](http://blog.nillhex.com/2014/05/remove-duplicates-from-sorted-list/)|
 |82|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| -- |---|
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| -- |---|
-|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| -- |---|
+|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [link](./80.cpp) |---|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| -- |---|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| -- |---|
 |77|[Combinations](https://oj.leetcode.com/problems/combinations/)| -- |---|
@@ -153,14 +153,14 @@ You can use `Ctrl-F` to find the solutions precisely.
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| -- |---|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| -- |---|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [link](./34.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodesearch-for-a-range/)|
-|33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| -- |---|
+|33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [link](./33.cpp) |[View]()|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| -- |---|
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| -- |---|
 |30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| -- |---|
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| -- |---|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| -- |---|
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| -- |---|
-|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| -- |---|
+|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./26.cpp) |---|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| -- |---|
 |24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [link](./24.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodeswap-nodes-in-pairs/)|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| -- |---|
