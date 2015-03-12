@@ -105,7 +105,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| -- |---|
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [link](./83.cpp) |[View](http://blog.nillhex.com/2014/05/remove-duplicates-from-sorted-list/)|
 |82|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| -- |---|
-|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| -- |---|
+|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [link](./81.cpp) |[Todo]()|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [link](./80.cpp) |---|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| -- |---|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| -- |---|
