@@ -58,7 +58,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |131|[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| -- |---|
 |130|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| -- |---|
 |129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| -- |---|
-|128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| -- |---|
+|128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| [link](./128.cpp) |---|
 |127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)| -- |---|
 |126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)| -- |---|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [link](./125.cpp) |---|
@@ -105,7 +105,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| -- |---|
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [link](./83.cpp) |[View](http://blog.nillhex.com/2014/05/remove-duplicates-from-sorted-list/)|
 |82|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| -- |---|
-|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| -- |---|
+|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [link](./81.cpp) |---|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [link](./80.cpp) |---|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| -- |---|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| -- |---|
@@ -159,7 +159,7 @@ You can use `Ctrl-F` to find the solutions precisely.
 |30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| -- |---|
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| -- |---|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| -- |---|
-|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| -- |---|
+|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [link](./27.cpp) |---|
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./26.cpp) |---|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| -- |---|
 |24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [link](./24.cpp) |[View](http://blog.nillhex.com/2014/05/leetcodeswap-nodes-in-pairs/)|
@@ -168,10 +168,10 @@ You can use `Ctrl-F` to find the solutions precisely.
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| -- |---|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [link](./20.cpp) |---|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [link](./19.cpp) |[View](http://blog.nillhex.com/2014/05/leetcoderemove-nth-node-from-end-of-list/)|
-|18|[4Sum](https://oj.leetcode.com/problems/4sum/)| -- |---|
+|18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [link](./18.cpp) |---|
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| -- |---|
-|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| -- |---|
-|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| -- |---|
+|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [link](./16.cpp) |---|
+|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [link](./15.cpp) |---|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| -- |---|
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [link](./13.cpp) |---|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| -- |---|
@@ -185,4 +185,4 @@ You can use `Ctrl-F` to find the solutions precisely.
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| -- |---|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| -- |---|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| -- |---|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| -- |---|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [link](./1.cpp) |---|
